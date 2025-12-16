@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hm-ritik
+ 👋 Hi, I’m @hm-ritik
 - 👀 I’m interested in machine learning and startup ideas 
 - 🌱 I’m currently learning learnig machine learning concepts
 - - 💞️ I’m looking to collaborate on startup ideas or project which include ml concepts 
