@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning learnig machine learning concepts
 - - 💞️ I’m looking to collaborate on startup ideas or project which include ml concepts 
 - 📫 How to reach me . https://www.linkedin.com/in/ritik-raushan-b5928b271/
-- 😄 Pronouns: future startup founder , ml , data , 
+- 😄 Pronouns: fast api , ml , data , 
 - ⚡ Fun fact: i am a amazing storyteller
 
 <!---
