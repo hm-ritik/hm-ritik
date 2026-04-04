@@ -1,8 +1,8 @@
  👋 Hi, I’m @hm-ritik
-- 👀 I’m interested in machine learning and startup ideas 
+- 👀 I’m interested in machine learning & Backend Development. 
 - 🌱 I’m currently learning learnig machine learning concepts
 - - 💞️ I’m looking to collaborate on startup ideas or project which include ml concepts 
-- 📫 How to reach me . https://www.linkedin.com/in/ritik-raushan-b5928b271/
+- 📫 How to reach me . https://www.linkedin.com/in/hm_ritik/
 - 😄 Pronouns: fast api , ml , data , 
 - ⚡ Fun fact: i am a amazing storyteller
 
