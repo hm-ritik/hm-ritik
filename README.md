@@ -1,9 +1,9 @@
  👋 Hi, I’m @hm-ritik
-- 👀 I’m interested in machine learning & Backend Development. 
-- 🌱 I’m currently learning learnig machine learning concepts
-- - 💞️ I’m looking to collaborate on startup ideas or project which include ml concepts 
-- 📫 How to reach me . https://www.linkedin.com/in/hm_ritik/
-- 😄 Pronouns: fast api , ml , data , 
+- 👀 I’m interested in Ai , machine learning & Backend Development. 
+- 🌱 I’m currently learning learning Backend Infrastructure concepts
+- - 💞️ I’m looking to collaborate on Building scalable and secure backend system
+- 📫 How to reach me . [https://www.linkedin.com/in/hm_ritik/](https://www.linkedin.com/in/hm-ritik/)
+- 😄 Pronouns: FastAPI, PostgreSQL , ML ,  DATA , C++ 
 - ⚡ Fun fact: i am a amazing storyteller
 
 <!---
